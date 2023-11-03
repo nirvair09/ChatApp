@@ -28,7 +28,7 @@ This project is available under the [MIT License](link-to-license), which allows
 
 ## Contact
 
-If you have any questions, feedback, or would like to collaborate, you can reach out to me at [Your Email Address].
+If you have any questions, feedback, or would like to collaborate, you can reach out to me at chandradeep262003@gmail.com .
 
 ## Acknowledgments
 
